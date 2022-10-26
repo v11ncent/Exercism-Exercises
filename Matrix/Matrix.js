@@ -70,4 +70,7 @@ class Matrix {
 }
 
 const stringMatrix = new Matrix('9 8 7\n5 3 2\n6 6 7\n');
-console.log(stringMatrix.getColumns);
+
+console.log(`Matrix: ${stringMatrix.getMatrix}`);
+console.log(`Matrix rows: ${stringMatrix.getRows}`);
+console.log(`Matrix columns: ${stringMatrix.getColumns}`);
