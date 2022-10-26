@@ -1,0 +1,2 @@
+# About 🎃
+This repository is similar to my Frontend-Mentor-Challenges repository (https://github.com/vince1444/Frontend-Mentor-Challenges); however, instead of focusing on building websites like in Frontend Mentor, these exercises are aimed at JavaScript fundamentals. Most (if not all) of the exercises in this repository will be from Exercism (https://exercism.org/tracks/javascript/exercises).
